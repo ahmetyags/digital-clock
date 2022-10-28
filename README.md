@@ -29,13 +29,13 @@ digital-clock (folder)
 ### Screenshot
 
 <p align="center">
-<a href="https://sezginakgul.github.io/digital-clock/"><img src="digitalclock.gif" alt="screenshot" width="100%"></a>
+<a href="https://github.com/ahmetyags/digital-clock/"><img src="digitalclock.gif" alt="screenshot" width="100%"></a>
 </p>
 
 
 ### Links
 
-- Live: [Live Website](https://sezginakgul.github.io/digital-clock/)
+- Live: [Live Website](https://ahmetyags.github.io/digital-clock/)
 
 
 ### Built with
